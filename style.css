@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+div{
+    background-color: #D65076;
+    width: 800px;
+    margin: auto;
+    margin-top: 20px;
+    padding:20px
+}
+h1{
+    color:rgb(229, 245, 12);
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+h2{
+    color:rgb(225, 235, 88) ;
+    margin-bottom: 10px;
+}
+p{
+    margin-bottom: 10px;
+}
+body{
+   
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+      
+}
